@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Truong</h1>
 <h3 align="center">A developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **Django framework, vue3, typescripts,.... I'm also learning about "Machine learning" and FastAPI**
+- 🌱 I’m currently learning **Django framework, vue3, typescripts,.... I'm also learning about "Machine learning"**
 
 - 📫 How to reach me **xuantruong2k4.dev@gmail.com**
 
